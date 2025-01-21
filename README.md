@@ -1,0 +1,2 @@
+# ProletMacro
+AutoClicker without Features
